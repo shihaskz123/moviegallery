@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+
+body {
+  background-image: url("./images/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner.jpg");
+  /* background-size: cover; */
+  /* background-repeat: no-repeat; */
+  color: rgb(253, 245, 243);
+  text-align: center;
+}
+
+.row1 {
+  height: 600px;
+  width: 100%;
+  /* background-color: aliceblue; */
+  margin-top: 20px;
+  position: relative;
+}
+
+h1{
+    /* padding-top: 5px; */
+    font-size:40px;
+    font-family: 'Rampart One', cursive;
+    color: black;
+}
+
+h4{
+    color: black;
+}
+
+p{
+    text-align: center;
+    color: black;
+}
+
+.t1{
+margin-top: 10px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.679), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.w1{
+    text-align: right;
+}
+
+.t2{
+    box-shadow: 0 4px 8px 0 rgba(141, 57, 57, 0.448), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.col{
+  
+  height: 570px;
+  width: 230px;
+  border: rgba(93, 79, 79, 0.258) 3px solid;
+  border-radius: 10px;
+  box-shadow: 10px 10px 5px rgba(47, 49, 101, 0.438);
+  position: absolute;
+  /* padding: 40px; */
+ padding: 30px;
+  /* padding-top: 30px; */
+  /* top: 15px; */
+  background-color: rgba(11, 73, 80, 0.4);
+}
+
+.e1{
+    text-align: center;
+}
+
+img {
+  width: 100%;
+}
+
+.s1{
+    font-size: 25px;
+}
+
+
+.col-1{
+  left: 150px;
+}
+.col-2 {
+  left: 500px;
+}
+.col-3 {
+  left: 850px;
+}
+.col-4 {
+  left: 1200px;
+}
+
+.z1{
+  background-color: rgba(17, 99, 102, 0.448);
+  /* border: rgb(26, 87, 99) 1px solid; */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.534);
+  /* height: 100px; */
+  border-radius: 50px;
+
+}
+
+.f1{
+  background-color: rgba(38, 146, 158, 0.567);
+  border-radius: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.416), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
